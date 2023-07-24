@@ -1,4 +1,4 @@
-package org.zerock.jdbcex_01.dao;
+package org.zerock.jdbcex.dao;
 
 import lombok.Cleanup;
 import org.zerock.jdbcex.domain.TodoVO;
